@@ -1,7 +1,7 @@
 📰 News App
 
 A modern Flutter news application that fetches and displays the latest news from online sources using APIs, providing users with real-time updates in a clean and intuitive interface.
-
+ 
 
 📌 Overview
 
